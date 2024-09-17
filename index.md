@@ -3,3 +3,6 @@
 ```
 NOM NOM NOM NOM NOM NOM NOM NOM NOM NOM NOM NOM NOM
 ```
+- [x] I like hot dogs
+- [x] You like hot dogs
+- [ ] The teacher likes hot dogs
